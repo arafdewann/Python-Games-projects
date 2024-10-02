@@ -1,6 +1,4 @@
 # Python Games Projects
-<a id="readme-top"></a>
-
 
 <div style="text-align: center;">
   <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" alt="Python Gif" width="150px"/>
